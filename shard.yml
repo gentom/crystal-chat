@@ -1,0 +1,13 @@
+name: chat
+version: 0.1.0
+
+authors:
+  - gentom <gento.m.developer@gmail.com>
+
+targets:
+  chat:
+    main: src/chat.cr
+
+crystal: 0.24.1
+
+license: MIT
